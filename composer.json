@@ -1,0 +1,22 @@
+{
+  "name": "xzz-mifan/phpanalysis",
+  "type": "library",
+  "description": "The PHP library for phpanalysis",
+  "keywords": ["phpanalysis"],
+  "homepage": "https://github.com/laiwi/phpanalysis",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "laiwi",
+      "email": "201617010@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {"PHPAnalysis\\": ""}
+  }
+}
